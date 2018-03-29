@@ -1,0 +1,4 @@
+framework module DefaultsKit {
+    header "DefaultsKit-Swift.h"
+    requires objc
+}
